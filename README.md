@@ -31,20 +31,6 @@ Permite cadastrar livros com informações como título, gênero, autor, data de
 
 ---
 
-## Como Executar
-
-1. Certifique-se de ter o Python 3 instalado.
-2. Clone este repositório ou faça o download do arquivo.
-3. No terminal, execute:
-
-```bash
-python PROJETO APP/Aplicativo.exe
-```
-
-4. Siga as instruções do menu para navegar entre as funcionalidades.
-
----
-
 ## Pré-requisitos
 
 - Python 3.x
