@@ -43,6 +43,10 @@ Permite cadastrar livros com informações como título, gênero, autor, data de
 - Python 3
 - Bibliotecas padrão: `datetime`, `os`, `platform`, `time`
 
+  ## Download do Executável
+
+Baixe a versão pronta do Aplicativo Básico para Windows:
+
 ---
 
 ## Licença
