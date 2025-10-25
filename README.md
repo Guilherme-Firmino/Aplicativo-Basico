@@ -46,7 +46,7 @@ Permite cadastrar livros com informações como título, gênero, autor, data de
 ## Download do Executável
 
 Baixe a versão pronta do Aplicativo Básico para Windows:
-[Download .exe](https://github.com/GuilhermeFirmino/Aplicativo-Basico/releases/download/v1.0/Aplicativo-Basico.zip)
+[Download .exe](https://github.com/Guilherme-Firmino/Aplicativo-Basico/releases/download/v1.0/Aplicativo.exe)
 
 ---
 
